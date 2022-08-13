@@ -1,0 +1,6 @@
+Project Name : Simple Calculator.
+Project Language : Html,css,icon,sound,javascript.
+Developer Info : 
+Md. Nur Sami Noman
+Software Engineer
+Walton Hi-Tech Industries PLC.

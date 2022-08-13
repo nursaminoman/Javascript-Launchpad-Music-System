@@ -1,0 +1,19 @@
+.button_section{
+    text-align: center;
+}
+.myButton{
+    font-size: xx-large;
+    background-color: #e997a1;
+}
+
+.shadow{
+     box-shadow: 5px 5px red;
+}
+
+button{
+    font-size:xx-large ;
+    color: red;
+    width:180px;
+    height:100px;
+}
+
